@@ -9,6 +9,7 @@ module.exports = {
   // base: '/',
   // 生产
   base: './',
+  dest:'./dist',
   // evergreen: true,
   head: [
     ['link', { rel: 'icon', href: './logo.jpg' }]
