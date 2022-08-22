@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: './logo.jpg'
-heroText: 小朱博客
+heroText: 小朱技术文档
 tagline: 一点一滴都是进步
 actionText: 马上进入 →
 actionLink: /comps/
@@ -13,6 +13,7 @@ features:
 - title: 高性能
   details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
 ---
+
 ::: slot footer
-Copyright © 2022-present [小朱博客](https://www.baidu.com)
+Copyright © 2022-2022 [小朱版权所有]()-创作不易，请尊重他人劳动成果，未经授权禁止转载！
 :::
