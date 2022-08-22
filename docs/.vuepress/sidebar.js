@@ -1,0 +1,12 @@
+module.exports={
+    '/test/':[
+        '/',
+        '/test/',
+        '/test/test.md',
+        '/test/test2.md'
+    ],
+    '/comps/':[
+        '/',
+        '/comps/'
+    ]
+}
