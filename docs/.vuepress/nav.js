@@ -7,7 +7,7 @@ module.exports = [
     text: '技术文档',
     ariaLabel: 'Language Menu',
     items: [
-      { text: 'linux相关', link: '/linux/' },
+      { text: 'linux相关', link: '/Linux/' },
       { text: 'vue', link: '/vue/' },
       { text: 'python', link: '/python/' },
       { text: 'javascript', link: '/javascript/' },
@@ -16,6 +16,9 @@ module.exports = [
       { text: 'Git', link: '/git/' },
       { text: 'Mankdown', link: '/mankdown/' },
       { text: 'MySql', link: '/mysql/' },
+      { text: 'npm', link: '/npm/' },
+      { text: 'PHP', link: '/PHP/' },
+      { text: 'java', link: '/java/' },
     ]
   },
   {
@@ -27,7 +30,7 @@ module.exports = [
     link: 'http://49.233.53.82'
   },
   {
-    text: '仓库',
+    text: 'Code Warehouse',
     ariaLabel: 'Language Menu',
     items: [
       { text: 'github', link: 'https://github.com/daohedaocao/' },

@@ -1,39 +1,61 @@
-module.exports={
-    '/test/':[
+module.exports = {
+    '/test/': [
         '/',
         '/test/',
         '/test/test.md',
         '/test/test2.md'
     ],
-    '/comps/':[
+    '/Linux/': [
         '/',
-        '/comps/'
+        '/Linux/',
+        '/Linux/Ubuntu.md',
+        '/Linux/kali-Linux.md',
     ],
-    '/linux/':[
+    '/vue/': [
         '/',
+        '/vue/',
+        '/vue/Vue3.md'
     ],
-    '/vue/':[
+    '/python/': [
         '/',
+        '/python/',
     ],
-    '/python/':[
+    '/javascript/': [
         '/',
+        '/javascript/',
+        '/javascript/javascript_long.md',
+        '/javascript/AJAX.md',
     ],
-    '/javascript/':[
+    '/html/': [
         '/',
+        '/html/',
     ],
-    '/html/':[
+    '/css/': [
         '/',
+        '/css/'
     ],
-    '/css/':[
+    '/git/': [
         '/',
+        '/git/'
     ],
-    '/git/':[
+    '/mysql/': [
         '/',
+       '/mysql/'
     ],
-    '/mysql/':[
+    '/mankdown/': [
         '/',
+        '/mankdown/'
     ],
-    '/mankdown/':[
+    '/npm/': [
         '/',
+        '/npm/'
+    ],
+    '/PHP/': [
+        '/',
+        '/PHP/'
+    ],
+    '/java/': [
+        '/',
+        '/java/'
     ]
 }
